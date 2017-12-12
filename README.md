@@ -8,7 +8,7 @@ The library provides any addition ,or deletion of objects in model ( row in rdms
 
 ( On more Granular Level ) you can also make group of Model objects as reactive .
 
-####Quick start
+#### Quick start
 -----------
 
 1. Add middleware string in middleware list of your project (in settings.py):
@@ -43,4 +43,4 @@ The library provides any addition ,or deletion of objects in model ( row in rdms
 	  delete: [ json_serialized_queryset_object, ... ]
 	  }
 
-* [Install with pip](https://pypi.python.org/pypi/django-dbreact)
+### * [Install with pip](https://pypi.python.org/pypi/django-dbreact)
