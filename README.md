@@ -1,4 +1,4 @@
-## DbReact
+## django-dbreact
 
 DbReact is simple but effective django app which makes any database defined within the project reactive 
 using SSE ( Server Side Events - no need to install anything for sse | its a http concept ).
@@ -43,4 +43,5 @@ The library provides any addition ,or deletion of objects in model ( row in rdms
 	  delete: [ json_serialized_queryset_object, ... ]
 	  }
 
-### * [Install with pip](https://pypi.python.org/pypi/django-dbreact)
+
+#### * [Install with pip](https://pypi.python.org/pypi/django-dbreact)
