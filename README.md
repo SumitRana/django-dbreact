@@ -44,4 +44,7 @@ The library provides any addition ,or deletion of objects in model ( row in rdms
 	  }
 
 
-#### * [Install with pip](https://pypi.python.org/pypi/django-dbreact)
+#### * [Install with pip](https://pypi.python.org/pypi/django-dbreact) - pip install django-dbreact
+
+
+#### * Coming soon - reactive data for any updated row .
